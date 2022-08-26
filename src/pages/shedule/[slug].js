@@ -24,7 +24,7 @@ function productDetail() {
     dispatch(fetchProductDetailRequest(slug));
     getData1()
   }, []);
-  const image = window?.location?.href?.split("?")
+ // const image = window?.location?.href?.split("?")
 
   const getData1 = async () => {
     const response = await axios.get(

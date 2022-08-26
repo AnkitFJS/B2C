@@ -110,6 +110,11 @@ function Product({
   const getRandomArbitrary = (min, max) => {
     return Math.random() * (max - min) + min;
   };
+
+  const goToSchedulePage = () => {
+    window.location.replace('/shedule/55');
+  }
+
   const rederProductType = (type) => {
     switch (type) {
       case "tiny":
@@ -335,7 +340,7 @@ function Product({
       default:
         return (
           (
-            <div className={`product ${classNames(className)}`}>
+            <div className={`product ${classNames(className)}`} onClick={()=>goToSchedulePage()}>
 
                 <div className="product-img">
                   <a title={data?.facility?.name}>

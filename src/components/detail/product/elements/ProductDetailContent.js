@@ -32,6 +32,7 @@ export default function ProductDetailContent({ data, type }) {
       return;
     }
     setAddToCartLoading(true);
+    window.location.replace('/shop/checkout');
     onAddProductToCart({
       product,
       quantity,
@@ -39,6 +40,7 @@ export default function ProductDetailContent({ data, type }) {
         setAddToCartLoading(false);
         message.success("Product added to cart");
         dispatch(fetchCartRequest());
+        
       },
       onError: (mes, err) => {
         setAddToCartLoading(false);

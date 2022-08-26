@@ -1,4 +1,4 @@
-[
+  [
     { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-27-2023" },
     { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-27-2024" },
     { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-27-2025" },
@@ -14,6 +14,7 @@
     { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-28-2222" },
     { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-29-2422" },
     { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-29-2522" },
-    { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-29-2522" }
+    { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"07-29-2522" },
+    { "time": "08:00AM", "cost": "$30", "holes": 18, "people": "1 - 4","date":"08-26-2022" }
 
   ]

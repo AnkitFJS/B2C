@@ -386,12 +386,12 @@ function Product({
             </div>
             {round ? (
               <div className="product-content">
-                <Link
+                {/* <Link
                   href={process.env.PUBLIC_URL + `/shedule/[slug]`}
                   as={
                     process.env.PUBLIC_URL + `/shedule/${data?.facility?.mid}`
                   }
-                >
+                > */}
                   <a
                     className="product-name"
                     title="Pure Pineapple"
@@ -399,7 +399,7 @@ function Product({
                   >
                     {data?.name}
                   </a>
-                </Link>
+                {/* </Link> */}
               </div>
             ) : null}
             {round ? null : (

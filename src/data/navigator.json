@@ -1,0 +1,22 @@
+{
+  "HOME": {
+    "title": "Hot Deals",
+    "href": "/shop/shop-grid-3-column"
+  },
+  "SHOP": {
+    "title": "Courses",
+    "href": "/shop/shop-grid-3-column"
+  },
+  "BLOG": {
+    "title": "Destination",
+    "href": "/shop/shop-grid-3-column"
+  },
+  "PAGES": {
+    "title": "Best Courses",
+    "href": "/shop/shop-grid-3-column"
+  },
+  "ABOUT": {
+    "title": "Reward",
+    "href": "/shop/shop-grid-3-column"
+  }
+}

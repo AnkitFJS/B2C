@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "category": "club",
+      "tag": [
+        "",
+        ""
+      ],
+      "shortDescription": "Cascais Golf Passport 3 Rounds Product",
+      "fullDescription": "",
+      "name": "Cascais Golf Passport 3 Rounds Product",
+      "rate": 4,
+      "price": 100.00,
+      "discount": 0,
+      "quantity": 1,
+      "coverImage": "/assets/images/golfpass/Cascais_Golf_Passport-Logo-Black-RGB-150mm@300ppi.jpg",
+      "images": [
+        "/assets/images/sections/introduction/11.jpeg",
+        "/assets/images/sections/introduction/22.jpeg",
+        "/assets/images/sections/introduction/33.jpeg"
+      ],
+      "specifications": {
+        "Count": "1 kanal",
+        "dimensions": {
+          "long": 30,
+          "width": 15,
+          "height": 10
+        },
+        "color": "neat and clean",
+        "size": "s"
+      },
+      "slug": "fresh-orange-1",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Max Shawrad",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Sharah Anna",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Charlotte Jessica",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Mary Lili",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
+        }
+      ]
+    }
+  ]

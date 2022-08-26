@@ -1,0 +1,36 @@
+[
+  {
+    "title": "INFORMATION",
+    "items": [
+      { "title": "About us", "href": "/other/about-us" },
+      { "title": "Contact", "href": "/other/contact-us" },
+      { "title": "Cascais Golf Passport", "href": "#" },
+      { "title": "Privacy Policy", "href": "#" },
+      { "title": "Cookie Preferences", "href": "#" },
+      { "title": "Terms of Service", "href": "#" }
+    ]
+  },
+  {
+    "title": "RESOURCES",
+    "items": [
+      { "title": "Destinations", "href": "#" },
+      { "title": "Golf Passport Courses", "href": "#" },
+      { "title": "Course Directory", "href": "#" },
+      { "title": "Promotions", "href": "#" }
+
+    ]
+  },
+  {
+    "title": "BUSINESSES",
+    "items": [
+      { "title": "Partner Support", "href": "#" },
+      { "title": "B2B Agent Login", "href": "#" }    ]
+  },
+  {
+    "title": "PARTNER BRANDS",
+    "items": [
+      { "title": "Cascais Golf", "href": "#" }
+
+        ]
+  }
+]

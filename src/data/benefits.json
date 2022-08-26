@@ -1,0 +1,18 @@
+[
+ 
+  {
+    "iconSrc": "/assets/images/other/benefits/2.png",
+    "name": "BOOKING ON TIME",
+    "description": "short, fast and on time"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/3.png",
+    "name": "SECURE PAYMENT",
+    "description": "100% secure payment"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/4.png",
+    "name": "24/7 SUPPORT",
+    "description": "Support in all cases of your Booking"
+  }
+]

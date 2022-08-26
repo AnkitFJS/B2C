@@ -1,0 +1,36 @@
+{
+  "one": [
+    {
+      "image": {
+        "background": "F",
+        "main": "/assets/images/sections/introduction/11.jpeg"
+      },
+      "title": "Meet Jarrett Payton",
+      "quantity": 12
+    },
+    {
+      "image": {
+        "background": "D",
+        "main": "/assets/images/sections/introduction/33.jpeg"
+      },
+      "title": "Bowling Green GC",
+      "quantity": 8
+    },
+    {
+      "image": {
+        "background": "Y",
+        "main": "/assets/images/sections/introduction/22.jpeg"
+      },
+      "title": "Pasatiempo",
+      "quantity": 2
+    },
+    {
+      "image": {
+        "background": "J",
+        "main": "/assets/images/sections/introduction/33.jpeg"
+      },
+      "title": "Disney's Palm Golf ",
+      "quantity": 10
+    }
+  ]
+}
